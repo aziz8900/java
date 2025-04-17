@@ -14,7 +14,7 @@ public class Employe implements Comparable<Employe> {
         this.grade = grade;
     }
 
-    // Getters utilisés
+
     public String getNom() { return nom; }
     public String getNomDepartement() { return nomDepartement; }
     public int getGrade() { return grade; }
